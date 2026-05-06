@@ -5,7 +5,7 @@ import "@photo-sphere-viewer/markers-plugin/index.css";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Showroom Interativo",
+  title: "Showroom Interativo - Tassi Decor Exemplo",
   description: "Landing page com showroom interativo para decoração residencial.",
 };
 
